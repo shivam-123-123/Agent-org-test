@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Is_Escalated__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Set to true by the hourly CaseEscalationBatch job for open High priority Cases older than 4 hours.</description>
+    <externalId>false</externalId>
+    <label>Is Escalated</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
