@@ -8,5 +8,5 @@
   "name": "org-agent-1",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "68.0"
+  "sourceApiVersion": "62.0"
 }
